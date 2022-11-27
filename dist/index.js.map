@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../index.ts"],"names":[],"mappings":"AACA,MAAM,KAAK,GAA0B,SAAS,CAAC,mBAAmB,CAAC;AACnE,eAAe,KAAK,CAAE","sourcesContent":["\nconst cores : (number | undefined) = navigator.hardwareConcurrency;\nexport default cores ;\n\n"]}
